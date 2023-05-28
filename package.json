@@ -1,0 +1,24 @@
+{
+  "name": "ytauto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@types/fluent-ffmpeg": "^2.1.21",
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "https": "^1.0.0",
+    "youtube-dl-exec": "^2.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.5"
+  }
+}
