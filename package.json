@@ -14,8 +14,10 @@
     "@types/fluent-ffmpeg": "^2.1.21",
     "axios": "^1.4.0",
     "dotenv": "^16.0.3",
+    "ffmpeg-static": "^5.1.0",
     "fluent-ffmpeg": "^2.1.2",
     "https": "^1.0.0",
+    "sharp": "^0.32.1",
     "youtube-dl-exec": "^2.4.3"
   },
   "devDependencies": {
